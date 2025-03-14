@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This repository contains **mT5-LatinSummarizer**, a specialized model fine-tuned from `mT5-small` for Latin summarization tasks. The model is first pre-trained to generate extractive summaries in Latin and traductions English-Latin, and then finetuned on High-Quality summaries to generate abstractive summaries of Latin texts, leveraging pre-existing datasets and techniques such as **LoRA (Low-Rank Adaptation)** for efficient fine-tuning.
+This repository contains **mT5-LatinSummarizer**, a specialized model fine-tuned from `mT5-small` for Latin summarization tasks. The model is first pre-trained to generate extractive summaries in Latin and translations English-Latin, and then finetuned on High-Quality summaries to generate abstractive summaries of Latin texts, leveraging pre-existing datasets and techniques such as **LoRA (Low-Rank Adaptation)** for efficient fine-tuning.
 
 
 ## Repository Structure
